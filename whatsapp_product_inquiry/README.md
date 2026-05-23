@@ -1,1 +1,1 @@
-# Odoo-WhatsApp-Enquiry
+# Odoo-WhatsApp-Inquiry
